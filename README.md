@@ -1,11 +1,10 @@
-Welcome to your new dbt project!
+## practice case 4
 
-### Using the starter project
+### transforming raw data from bigq dataset to remove null values and order by pickup_datetime
 
-Try running the following commands:
-- dbt run
-- dbt test
+### dimension tables and data dictionary were pulled from https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf and saved as .csv seeds
 
+### data quality tests done are unique value testing, not null value testing, and some accepted values for dimension tables
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
