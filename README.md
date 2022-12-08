@@ -2,7 +2,7 @@
 
 ### transforming raw data from bigq dataset to remove null values and order by pickup_datetime
 
-### dimension tables and data dictionary were pulled from https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+### dimension tables and data dictionary were pulled from https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf and saved as .csv seeds
 
 ### data quality tests done are unique value testing, not null value testing, and some accepted values for dimension tables
 
