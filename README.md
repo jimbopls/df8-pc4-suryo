@@ -6,6 +6,8 @@
 
 ### data quality tests done are unique value testing, not null value testing, and some accepted values for dimension tables
 
+### documentation stored in target dir, dbt docs serve to open generated docs
+
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
 - Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
