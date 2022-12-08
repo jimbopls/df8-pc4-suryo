@@ -14,3 +14,4 @@ order by tpep_pickup_datetime DESC
 -- ratecode, paymenttype, tripdistance, pikcup, dropoff
 -- location ids
 -- must not be nulls
+-- ordered by pickup datetime in descending order
